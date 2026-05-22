@@ -4,7 +4,7 @@
 
 Investminder est une plateforme moderne de stratégie d'investissement et de backtesting conçue pour vous aider à bâtir un avenir financier solide et maîtrisé.
 
-[www.investminder.com](https://www.investminder.com) | Contact | [LinkedIn](https://linkedin.com/company/investminder)
+[www.investminder.com](https://www.investminder.com)
 
 ---
 
@@ -32,5 +32,5 @@ Chez Investminder, la sécurité des données de nos utilisateurs et l'intégrit
 Vous souhaitez en savoir plus sur notre technologie, échanger sur un partenariat ou intégrer l'équipe ?
 
 - 🌐 **Site internet** : [www.investminder.com](https://www.investminder.com)
-- 📧 **E-mail** : [contact@investminder.com](mailto:contact@investminder.com)
-- 💬 **Réseaux sociaux** : Rejoignez notre communauté sur [r/Investminder](https://www.reddit.com/r/Investminder/) pour échanger sur les stratégies d'investissement.
+- 📧 **LinkedIn** : [LinkedIn](https://linkedin.com/company/investminder)
+- 💬 **Reddit** : Rejoignez notre communauté sur [r/Investminder](https://www.reddit.com/r/Investminder/) pour échanger sur les stratégies d'investissement.
